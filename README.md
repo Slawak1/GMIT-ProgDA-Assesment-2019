@@ -13,7 +13,7 @@ Sowa Slawomir
 * Explain the use of seeds in generating pseudorandom numbers.
 
 
-### Table of Content
+### Table of Content:
 
 1. Introduction¶
 2. NumPy - installation
@@ -30,10 +30,27 @@ Sowa Slawomir
     4.2 Permutations
     4.3 Distributions
         
-        4.3.1 Binomial Distribution 
-        4.3.2 Poisson Distribution
-
+      4.3.1 Binomial Distribution 
+      4.3.2 Poisson Distribution
+      4.3.3 Normal Distribution
+      4.3.4 Chisquare Distribution
+      4.3.5 Triangular Distribution
+      
+    4.4 Random Seed
+    
 5. Conclusions
 6. References
 
+
+### References:
+
+1. "Numerical Python, 2nd Edition, Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib", Robert Johansson, 2019
+2. "An Introduction to statistics with Python", Thomas Haslwanter, 2016
+3. "Notes on triangle distributions", Dr Nicola Ward Petty and Dr Shane Dye of Statistics Learning Centre: StatsLC.com, 2013
+4. https://docs.scipy.org/doc/numpy-1.15.0/reference/routines.random.html
+5. https://en.wikibooks.org/wiki/LaTeX/Mathematics
+6. http://onlinestatbook.com/2/chi_square/distribution.html
+7. https://www.investopedia.com/terms/n/normaldistribution.asp
+8. https://en.wikipedia.org/wiki/Poisson_distribution
+9. https://www.sharpsightlabs.com/blog/numpy-random-seed/
 
