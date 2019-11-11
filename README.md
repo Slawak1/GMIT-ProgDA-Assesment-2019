@@ -4,6 +4,8 @@ GMIT Galway - Programming for Data Analysis Assesment 2019
 
 Sowa Slawomir
 
+## Numpy.random package - Project 2019
+
 
 ### Assignment Objectives:
 
@@ -50,7 +52,8 @@ Sowa Slawomir
 
     "An Introduction to statistics with Python", Thomas Haslwanter, 2016
 
-    "Notes on triangle distributions", Dr Nicola Ward Petty and Dr Shane Dye of Statistics Learning Centre: StatsLC.com, 2013
+    "Notes on triangle distributions", Dr Nicola Ward Petty and Dr Shane Dye of Statistics Learning Centre: 
+    StatsLC.com, 2013
 
     https://docs.scipy.org/doc/numpy-1.15.0/reference/routines.random.html
 
