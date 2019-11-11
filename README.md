@@ -45,7 +45,8 @@ Sowa Slawomir
 ### References:
 
 
-    "Numerical Python, 2nd Edition, Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib", Robert Johansson, 2019
+    "Numerical Python, 2nd Edition, Scientific Computing and Data Science Applications with Numpy, 
+    SciPy and Matplotlib", Robert Johansson, 2019
 
     "An Introduction to statistics with Python", Thomas Haslwanter, 2016
 
