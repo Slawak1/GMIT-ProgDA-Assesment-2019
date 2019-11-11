@@ -44,13 +44,26 @@ Sowa Slawomir
 
 ### References:
 
-1. "Numerical Python, 2nd Edition, Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib", Robert Johansson, 2019
-2. "An Introduction to statistics with Python", Thomas Haslwanter, 2016
-3. "Notes on triangle distributions", Dr Nicola Ward Petty and Dr Shane Dye of Statistics Learning Centre: StatsLC.com, 2013
-4. https://docs.scipy.org/doc/numpy-1.15.0/reference/routines.random.html
-5. https://en.wikibooks.org/wiki/LaTeX/Mathematics
-6. http://onlinestatbook.com/2/chi_square/distribution.html
-7. https://www.investopedia.com/terms/n/normaldistribution.asp
-8. https://en.wikipedia.org/wiki/Poisson_distribution
-9. https://www.sharpsightlabs.com/blog/numpy-random-seed/
+
+    "Numerical Python, 2nd Edition, Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib", Robert Johansson, 2019
+
+    "An Introduction to statistics with Python", Thomas Haslwanter, 2016
+
+    "Notes on triangle distributions", Dr Nicola Ward Petty and Dr Shane Dye of Statistics Learning Centre: StatsLC.com, 2013
+
+    https://docs.scipy.org/doc/numpy-1.15.0/reference/routines.random.html
+
+    https://en.wikibooks.org/wiki/LaTeX/Mathematics
+
+    http://onlinestatbook.com/2/chi_square/distribution.html
+
+    https://www.investopedia.com/terms/n/normaldistribution.asp
+
+    https://en.wikipedia.org/wiki/Poisson_distribution
+
+    https://www.sharpsightlabs.com/blog/numpy-random-seed/
+
+    https://stackoverflow.com/a/47232184/11107506 - numpy.random.rand() vs numpy.random.random_sample()
+
+
 
